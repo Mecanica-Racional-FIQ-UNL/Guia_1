@@ -1,0 +1,21 @@
+# inkscape
+*.svg
+
+# checkpoints
+.ipynb_checkpoints/*
+
+# LaTeX
+Latex/*
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.tex
+
+# LyX
+Desarrollos/*
+*.lyx
+
+# Soluciones
+./Soluciones/*
+Soluciones
